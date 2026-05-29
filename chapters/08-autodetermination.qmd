@@ -1,0 +1,59 @@
+# Autodétermination, agentivité, pair-aidance
+
+::: {.callout-note appearance="simple"}
+## Thèse
+L'autodétermination n'est pas un trait individuel à entraîner. C'est un produit relationnel et écosystémique, soutenu par des opportunités d'apprentissage et par la reconnaissance des savoirs expérientiels.
+:::
+
+## Théorie de l'autodétermination
+
+@ryandeci2017 identifient trois besoins psychologiques fondamentaux **universels** qui conditionnent la motivation, le bien-être, l'engagement :
+
+1. **Autonomie** — agir en accord avec ses valeurs
+2. **Compétence** — éprouver son efficacité
+3. **Appartenance** — appartenir, être relié
+
+> *« Autonomy, competence, and relatedness are not just preferences but universal psychological necessities. »* [@ryandeci2017, p. 86]
+
+## Le modèle fonctionnel de Wehmeyer
+
+@wehmeyer1996 propose une opérationnalisation centrée sur le concept d'**agent causal** : agir comme le principal agent causal de sa propre vie.
+
+### Quatre caractéristiques
+
+| Caractéristique | Question test |
+|---|---|
+| Autonomie comportementale | La personne agit-elle selon ses préférences ? |
+| Autorégulation | La personne sait-elle ajuster son action ? |
+| *Empowerment* psychologique | La personne croit-elle pouvoir agir sur sa vie ? |
+| Autoréalisation | La personne se connaît-elle suffisamment ? |
+
+## L'enjeu opérationnel
+
+::: {.callout-tip appearance="simple"}
+## Trois postures à distinguer
+- **Contrôler** l'autonomie de la personne accompagnée
+- **Contraindre** son autonomie
+- **Soutenir** son autonomie (*autonomy support*)
+
+Seule la troisième posture est compatible avec l'autodétermination. Les deux premières sont fréquentes en institution — sous des apparences bienveillantes.
+:::
+
+## Savoirs expérientiels et pair-aidance
+
+La cartographie pionnière de @jouet2010 a documenté la production de savoirs spécifiques par les personnes concernées.
+
+> *« Les patients développent, au fil de l'expérience de la maladie, des savoirs spécifiques qui ne sont pas réductibles aux savoirs médicaux. »* [@jouet2010]
+
+À Genève, plusieurs recherches HETS portent sur la pair-aidance et l'habitat autonome dans le champ de la déficience intellectuelle [@masse2018 ; @souesme2024].
+
+## Vigilance épistémique
+
+::: {.callout-warning appearance="simple"}
+## La division témoin / expert
+Malgré la rhétorique participative, une division du travail épistémique persiste : les personnes handicapées sont mobilisées comme **témoins**, tandis que les valides occupent les positions d'**experts** [@brasseurrodriguez2019].
+
+> *« Les personnes handicapées sont invitées à témoigner de leur expérience pendant que les valides en produisent l'analyse. La participation se déploie selon une économie inégale de la parole. »*
+
+La pair-aidance institutionnalisée doit s'accompagner d'un travail réflexif et structurel — **statut, rémunération, formation, supervision** — sans lequel elle risque de devenir une nouvelle injonction.
+:::

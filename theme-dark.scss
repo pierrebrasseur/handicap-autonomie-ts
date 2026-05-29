@@ -1,0 +1,35 @@
+/*-- scss:defaults --*/
+
+$primary: #b794e8;
+$body-bg: #1a1a2e;
+$body-color: #e8e8f0;
+$link-color: #b794e8;
+$link-hover-color: #f6b40e;
+$code-color: #f6b40e;
+$blockquote-border-color: #f6b40e;
+
+/*-- scss:rules --*/
+
+blockquote {
+  background: rgba(94, 44, 165, 0.15);
+  border-left: 4px solid #f6b40e;
+  padding: 0.8em 1.2em;
+  border-radius: 0 6px 6px 0;
+  font-style: italic;
+  color: #e8e8f0;
+}
+
+table thead th {
+  background: rgba(94, 44, 165, 0.3);
+  border-bottom: 2px solid #b794e8;
+  color: #ffffff;
+}
+
+.quarto-title-banner {
+  background: linear-gradient(135deg, #3d1c6b 0%, #5e2ca5 100%);
+}
+
+.aside {
+  background: rgba(94, 44, 165, 0.2);
+  border-left: 3px solid #f6b40e;
+}

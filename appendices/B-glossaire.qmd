@@ -1,0 +1,94 @@
+# Glossaire
+
+**Activité réelle / réel de l'activité**
+:   Concept central de la clinique de l'activité [@clot2008]. Désigne l'activité telle qu'elle se déploie effectivement en situation — incluant ce qui est fait, ce qui n'est pas fait, ce qui aurait pu être fait, et ce qui est empêché.
+
+**Agentivité (agency)**
+:   Capacité à agir comme l'agent causal de sa propre vie. Mobilisée par @wehmeyer1996 dans la *Causal Agency Theory* de l'autodétermination.
+
+**Autodétermination**
+:   Concept opérationnalisé par @wehmeyer1996 puis @ryandeci2017. Capacité d'une personne à agir comme agent causal de sa vie, en s'appuyant sur trois besoins fondamentaux : autonomie, compétence, appartenance.
+
+**Autonomie discrétionnaire**
+:   Marge d'appréciation laissée aux *street-level bureaucrats* [@lipsky2010] dans la mise en œuvre des politiques publiques.
+
+**Capabilité (capability)**
+:   Approche développée par Sen et @nussbaum2006. Désigne **ce que la personne peut effectivement faire et être**, compte tenu de ses ressources et des supports environnementaux.
+
+**CDPH**
+:   Convention relative aux droits des personnes handicapées [@cdph2006]. Traité international ONU, ratifié par la Suisse le 15 avril 2014.
+
+**Care (éthique du)**
+:   Approche développée par Gilligan, @tronto2009, @paperman2011. Pense la vulnérabilité comme condition humaine universelle et redistribue la responsabilité du care.
+
+**Cash-for-care**
+:   Politiques qui transfèrent l'argent du soin à la personne plutôt qu'à l'institution. La contribution d'assistance AI suisse en est un exemple.
+
+**Contribution d'assistance AI**
+:   Prestation introduite le 1ᵉʳ janvier 2012 (6ᵉ révision LAI). Permet à la personne d'engager elle-même ses assistant·es. ~2 600 bénéficiaires en 2019, 81 % de satisfaction [@ofas2020].
+
+**Désinstitutionnalisation**
+:   Processus de transformation visant à sortir des grandes institutions au profit de services de proximité. Cadrée par l'art. 19 CDPH.
+
+**Dignité du risque**
+:   Concept de @perske1972. Les personnes ayant une déficience intellectuelle ont droit à prendre des risques ordinaires.
+
+**Disability (vs Impairment)**
+:   Distinction centrale du modèle social britannique [@oliver1990 ; @upias1976]. L'*impairment* est la déficience corporelle ; la *disability* est le handicap social produit par les barrières.
+
+**Droits vulnérables**
+:   Concept de @revillard2020. Droits sociaux dont l'existence formelle ne garantit pas l'effectivité.
+
+**Genre professionnel**
+:   Concept de la clinique de l'activité [@clot1999]. Manières de faire propres à un métier, déposées dans le collectif.
+
+**Habitudes de vie**
+:   Concept central du MDH-PPH [@fougeyrollas2010]. Activités courantes ou rôles sociaux valorisés. Une situation de handicap survient quand leur réalisation est compromise.
+
+**IASSIDD**
+:   *International Association for the Scientific Study of Intellectual Disabilities*. Position officielle : @mansell2010.
+
+**Inclusion (vs Intégration)**
+:   Distinction conceptuelle [@plaisance2009 ; @ebersold2017]. L'**intégration** suppose que la personne s'adapte au cadre ordinaire ; l'**inclusion** suppose que le cadre se transforme.
+
+**MDH-PPH**
+:   Modèle de Développement Humain – Processus de Production du Handicap [@fougeyrollas2010]. Modèle francophone québécois.
+
+**Pair-aidance**
+:   Pratique d'accompagnement reposant sur le partage d'expérience entre personnes ayant traversé une situation similaire [@jouet2010 ; @souesme2024].
+
+**Pouvoir d'agir**
+:   Concept de @clot2008. Possibilité effective d'agir sur son milieu et sur soi-même.
+
+**Praticien réflexif**
+:   Concept de @schon1994. Désigne le professionnel qui mobilise une *reflection-in-action*.
+
+**Réadaptation**
+:   Paradigme moderne analysé par @stiker2013. *« Réadapter, c'est ramener à la norme, à l'identique, et désigner par là même comme différent. »*
+
+**Savoir expérientiel**
+:   Savoir développé par les personnes concernées au fil de l'expérience d'une maladie, d'un handicap ou d'une situation [@jouet2010].
+
+**Situation de handicap**
+:   Concept central du MDH-PPH [@fougeyrollas2010]. Le handicap n'est pas un état mais une situation variable selon l'interaction personne-environnement.
+
+**Street-level bureaucracy**
+:   Concept de @lipsky2010. Les agents de terrain qui appliquent les politiques au contact des usagers sont les véritables *policy makers*.
+
+**Stigmate**
+:   Concept de @goffman1975. Attribut socialement disqualifiant.
+
+**Supported decision-making**
+:   « Soutien à la décision ». Paradigme alternatif à la substitution de décision, porté par l'art. 12 CDPH.
+
+**Travail émotionnel**
+:   Concept de @hochschild1983. Production d'émotions appropriées au rôle attendu.
+
+**Transinstitutionnalisation**
+:   Effet pervers de la désinstitutionnalisation : déplacement vers d'autres formes de ségrégation.
+
+**Valorisation des Rôles Sociaux (VRS / SRV)**
+:   Concept de Wolfensberger. Reformulation du principe de normalisation centrée sur l'accès des personnes dévalorisées à des rôles sociaux valorisés.
+
+**Validisme (ableism)**
+:   Système d'oppression analysé par les *disability studies*. Naturalisation des capacités corporelles et cognitives des personnes valides comme norme.

@@ -1,0 +1,78 @@
+# Positionnement
+
+::: {.callout-note appearance="simple"}
+## En bref
+Module Bachelor TS de spécialisation (5 ECTS, 13 séances), semestre 4. Le présent ouvrage déploie la séance 4 — la **séance probatoire du 5 juin 2026** — et fournit les ressources nécessaires pour la situer dans le module complet.
+:::
+
+## Identité du module
+
+| Élément | Valeur |
+|---|---|
+| **Intitulé** | Handicap, autonomie et travail social |
+| **Niveau** | Bachelor en travail social, semestre 4 |
+| **Crédits ECTS** | 5 |
+| **Volume horaire** | 13 séances de 4h = 52 h présentiel + 78 h travail personnel |
+| **Responsable** | Pierre Brasseur |
+| **Orientations** | Éducation sociale (principalement), ouvert aux trois orientations |
+
+## Articulation dans le PEC20
+
+**Pré-requis (semestre 3)** : modules *Politiques sociales suisses* et *Méthodologie d'intervention*.
+
+**Préparation à (semestres 5-6)** : formation pratique 2 dans des institutions du champ du handicap, et MAP de spécialisation Bachelor.
+
+**Compétences PEC20 ciblées** : C1, C2, C3, C4, C5, C7, C8, C9, C11.
+
+## Architecture des 13 séances
+
+```{mermaid}
+%%| label: fig-architecture-module
+%%| fig-cap: "Architecture du module sur 13 séances"
+graph TD
+    A["1. Pourquoi parler de handicap<br/>aujourd'hui ?"] --> B["2. Histoire longue :<br/>du protégé au sujet de droits"]
+    B --> C["3. Les modèles théoriques<br/>du handicap"]
+    C --> D["4. Transformations et<br/>nouvelle posture<br/>(leçon probatoire)"]
+    D --> E["5. Désinstitutionnalisation"]
+    E --> F["6. Autodétermination"]
+    F --> G["7. Pair-aidance<br/>et savoirs expérientiels"]
+    G --> H["8. Financement orienté personne"]
+    H --> I["9. École inclusive"]
+    I --> J["10. Familles, proches,<br/>intersections"]
+    J --> K["11. Sexualité, intimité,<br/>violences"]
+    K --> L["12. Posture pro :<br/>trois tensions approfondies"]
+    L --> M["13. Synthèse,<br/>controverses, perspectives"]
+
+    style D fill:#f6b40e,stroke:#5e2ca5,stroke-width:3px
+```
+
+La séance 4 — celle que développe le présent ouvrage — est la **séance pivot** du module. Les trois séances précédentes posent les jalons théoriques et historiques. Les neuf séances suivantes approfondissent chacun des thèmes esquissés à la séance 4.
+
+## Co-animations
+
+| Co-animation | Séance |
+|---|---|
+| Manon Masse (HETS) | 6. Autodétermination |
+| Catherine Lenzi (HETS) | 12. Posture professionnelle |
+| Chloé Souesme (HETS) | 7. Pair-aidance |
+| Geneviève Piérart (HETS Fribourg) | 10. Familles, intersections |
+| Pair-aidant·e (AGILE.CH ou Cap-Contact) | 5. Désinstitutionnalisation et 7. Pair-aidance |
+| Professionnel·le (Fondation Ensemble ou EPI) | 8. Financement orienté personne |
+
+## Objectifs d'apprentissage de la séance 4
+
+À l'issue de cette séance, l'étudiant·e sera capable de :
+
+1. **Identifier** les quatre principaux modèles théoriques du handicap et **reconnaître** leurs effets sur la pratique professionnelle [C1, C7]
+2. **Mettre en relation** les transformations contemporaines (désinstitutionnalisation, autodétermination, financement orienté personne) avec le cadre normatif suisse [C2, C5]
+3. **Nommer** trois tensions structurelles de la posture professionnelle [C8, C9, C11]
+4. **Mobiliser** un cas concret pour articuler théorie et pratique [C3, C4]
+
+## Note méthodologique
+
+L'ensemble du matériel a été préparé à partir de :
+
+- **64 fiches de lecture** structurées (Thèse · Concepts · Citations · Exemple BA · Limite)
+- Le **PEC20** du Bachelor en travail social HES-SO
+- Le **plan cantonal genevois CDPH** [@cdph2006 ; observations de @onu2022] et l'**avant-projet LED-H** 2024
+- Les **recherches HETS Genève** : @masse2018, @brasseurrodriguez2019, @souesme2024, @lenzimoine2025

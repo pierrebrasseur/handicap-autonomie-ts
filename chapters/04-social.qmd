@@ -1,0 +1,39 @@
+# Modèle social (Oliver, UPIAS 1976)
+
+::: {.callout-note appearance="simple"}
+## Thèse
+Le handicap n'est pas la déficience corporelle (*impairment*) mais le **handicap social produit par les barrières environnementales** (*disability*).
+:::
+
+## La rupture conceptuelle
+
+Le modèle social britannique opère une rupture épistémologique radicale. La distinction entre *impairment* et *disability* déplace la cause du handicap : ce n'est pas le corps qui handicape, c'est l'organisation sociale.
+
+> *« Disability is something imposed on top of our impairments by the way we are unnecessarily isolated and excluded from full participation in society. »*
+>
+> --- @upias1976, repris dans @oliver1990
+
+## Conséquences théoriques
+
+| Avant le modèle social | Après le modèle social |
+|---|---|
+| Le handicap est dans la personne | Le handicap est dans l'environnement |
+| L'intervention vise à corriger la personne | L'intervention vise à transformer l'environnement |
+| Logique de réadaptation | Logique d'accessibilité et de droits |
+| Personne objet de soins | Personne sujet politique |
+
+## Posture professionnelle qu'il appelle
+
+Le TS comme **acteur du changement environnemental**. Il agit moins sur la personne que sur les barrières qui la « handicapent » — barrières architecturales, communicationnelles, attitudinales, organisationnelles.
+
+## Critiques formulées depuis l'intérieur
+
+Le modèle social a été critiqué depuis sa propre tradition, notamment par :
+
+- Liz Crow et Sally French — pour son refus de prendre au sérieux la **souffrance corporelle** et l'**expérience subjective** de la déficience
+- Tom Shakespeare [@stiker2013] — pour son binarisme *impairment/disability* qui rejoue un dualisme corps/société problématique
+- Les *disability feminists* — pour son angle mort sur les intersections de genre, classe, racisation
+
+## Apport durable
+
+Malgré ces critiques internes, le modèle social a structuré le mouvement international des droits des personnes handicapées et la rédaction de la **CDPH 2006** [@cdph2006]. Sa contribution centrale reste la **politisation du handicap** comme question de justice sociale, et non comme question médicale.

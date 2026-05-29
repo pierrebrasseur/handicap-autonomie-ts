@@ -1,0 +1,67 @@
+# Désinstitutionnalisation
+
+::: {.callout-note appearance="simple"}
+## Thèse
+La désinstitutionnalisation n'est pas la simple fermeture des établissements. C'est la mise en place de services de proximité de qualité, individualisés. Sans cet investissement, elle produit de la transinstitutionnalisation et aggrave le non-recours.
+:::
+
+## Cadre normatif
+
+L'**article 19 CDPH** pose le droit de *« vivre dans la société, avec la même liberté de choix que les autres personnes »*. Sa mise en œuvre est précisément ce que le Comité ONU CDPH a critiqué dans ses Observations finales sur la Suisse du 13 avril 2022 [@onu2022].
+
+> *« The Committee is concerned about the lack of a comprehensive deinstitutionalization strategy. »* (§ 41)
+>
+> *« Adopt a deinstitutionalization strategy with a clear time frame. »* (§ 42)
+
+## Mobilisation politique suisse
+
+![Frise chronologique 2006-2026](../images/timeline-2006-2026.svg){#fig-timeline}
+
+```{mermaid}
+%%| label: fig-timeline-suisse
+%%| fig-cap: "Jalons suisses de l'inscription des droits du handicap"
+timeline
+    title Cadrage suisse de la désinstitutionnalisation
+    2006 : Adoption CDPH par l'ONU
+    2012 : Contribution d'assistance AI (6e révision LAI)
+    2014 : Ratification CDPH par la Suisse (15 avril)
+    2022 : Observations finales ONU CDPH sur la Suisse
+    2023 : Plan cantonal CDPH Genève volume 1
+    2024 : Avant-projet LED-H Genève (12 juin)
+         : Initiative Pour l'inclusion (107 910 signatures)
+    2026 : Contre-projet du Conseil fédéral (25 février)
+```
+
+| Année | Évènement |
+|---|---|
+| **2014** | Ratification CDPH par la Suisse (15 avril) |
+| **2022** | Observations finales du Comité ONU CDPH (80+ recommandations) |
+| **2023** | Plan cantonal genevois CDPH, volume 1 (janvier) |
+| **2024** | Avant-projet LED-H en consultation (12 juin) ; Initiative populaire fédérale *Pour l'inclusion* — **107 910 signatures** (5 septembre) |
+| **2026** | Contre-projet du Conseil fédéral, message du 25 février |
+
+## Précisions critiques
+
+::: {.callout-warning appearance="simple"}
+## La qualité ne dépend pas de la taille
+La position de l'IASSIDD, formalisée par @mansell2010, est sans équivoque :
+
+> *« Community-based services are typically associated with better outcomes than institutional provision, but outcomes vary widely depending on how services are organised. »* [@mansell2010, p. 106]
+:::
+
+Sans investissement substantiel dans les services de proximité, la fermeture des grands établissements produit :
+
+- **Transinstitutionnalisation** — déplacement vers d'autres formes de ségrégation (hôpital psychiatrique, prison, rue)
+- **Aggravation du non-recours** — les personnes concernées n'accèdent plus aux services dont elles auraient besoin
+- **Charge accrue sur les familles** — délégation informelle aux proches, surtout aux femmes
+
+L'**ENIL** (European Network on Independent Living) documente que des fonds structurels européens continuent à financer la rénovation d'institutions au lieu de l'assistance personnelle.
+
+## Pour le travail social
+
+| Action | Outils mobilisables |
+|---|---|
+| Évaluer la qualité des alternatives | Indicateurs IASSIDD, MHAVIE |
+| Activer les droits | CDPH art. 19, contribution d'assistance AI |
+| Articuler le réseau | Pro Infirmis, Cap-Contact, INSOS Genève |
+| Soutenir la transition | Pair-aidance [@souesme2024], préparation graduée |

@@ -1,0 +1,109 @@
+# Auto-évaluation
+
+::: {.callout-note appearance="simple"}
+## Mode d'emploi
+Cinq exercices courts pour vérifier la mobilisation des concepts. **Ouvrez chaque bloc *Réponse* après avoir réfléchi.** Aucune note — outil de révision avant le travail intermédiaire (séance 7 du module complet).
+:::
+
+## Exercice 1 — Reconnaître les modèles
+
+Dans une institution genevoise, un règlement stipule : *« L'usager·ère doit faire la preuve de ses progrès d'autonomie avant tout passage en habitat individuel. »*
+
+**À quel modèle du handicap ce règlement renvoie-t-il principalement ?**
+
+::: {.callout-tip appearance="default" collapse="true"}
+## Réponse
+**Modèle médical-réadaptatif.**
+
+Trois indices :
+
+- Le langage du « progrès » et de la « preuve » : la personne doit s'ajuster à une norme implicite de productivité comportementale
+- L'autonomie est posée comme **attribut individuel** à acquérir, non comme capabilité à soutenir
+- L'environnement (la disponibilité d'un habitat accompagné) n'est pas interrogé
+
+**Contraste** : l'art. 19 CDPH pose le **droit de vivre dans la communauté avec la même liberté de choix**. Une lecture *droits + capabilités* renverserait la charge de la preuve.
+:::
+
+## Exercice 2 — Distinguer impairment et disability
+
+Une étudiante en FP rapporte : *« Mon résident en fauteuil n'arrive jamais à temps au repas parce que le couloir est trop étroit pour qu'on puisse y croiser une autre personne en fauteuil. »*
+
+**Où se situe le handicap dans cette situation ?**
+
+::: {.callout-tip appearance="default" collapse="true"}
+## Réponse
+Le **fauteuil** et la difficulté motrice relèvent de l'***impairment***.
+
+Le fait d'arriver en retard au repas relève de la ***disability***.
+
+Cause : la largeur du couloir, donc l'**environnement bâti**. Modèle social [@oliver1990] : *« It is society which disables physically impaired people. »*
+
+Pour le TS : l'intervention pertinente n'est pas (seulement) sur la personne mais sur le bâti. Note la convergence avec la LHand (RS 151.3) qui pose des obligations d'accessibilité.
+:::
+
+## Exercice 3 — Mobiliser une capabilité
+
+Une personne polyhandicapée sans communication verbale, en foyer, ne participe à aucune activité collective. L'équipe écrit dans le projet personnalisé : *« Bien-être de base assuré. »*
+
+**Que dirait Nussbaum ?**
+
+::: {.callout-tip appearance="default" collapse="true"}
+## Réponse
+Les **dix capabilités centrales** [@nussbaum2006] posent un seuil minimal pour qu'une vie soit *worthy of human dignity*. Y figurent notamment :
+
+- **L'affiliation** (vivre avec et pour les autres)
+- **Le jeu** (rire, jouer, profiter d'activités récréatives)
+- **Le contrôle de son environnement** (au sens matériel et politique)
+
+Réduire l'évaluation au « bien-être de base » (soins, hygiène, alimentation), c'est **passer sous silence ces capabilités**. La personne est traitée comme objet de soin, non comme sujet d'une vie digne.
+
+Le TS qui mobilise Nussbaum dans son évaluation oblige l'équipe à se demander : *que faisons-nous pour soutenir l'affiliation et le jeu ?*
+:::
+
+## Exercice 4 — Identifier la tension
+
+Une éducatrice rapporte : *« Léa veut prendre seule le tram pour aller travailler. Le règlement de l'institution interdit la circulation seule. La cheffe d'équipe dit que c'est pour notre protection juridique. »*
+
+**Quelle tension est à l'œuvre ? Quels outils mobiliser ?**
+
+::: {.callout-tip appearance="default" collapse="true"}
+## Réponse
+**Tension protection / autonomie.**
+
+Outils théoriques :
+
+- **Dignité du risque** [@perske1972] : *« There can be such a thing as human dignity in risk. And there can be a dehumanizing indignity in safety! »*
+- **Art. 12 CDPH** : capacité juridique universelle, paradigme du soutien à la décision
+- **Éthique du care** [@tronto2009] : redistribuer la responsabilité du care plutôt que confiner la personne dans un statut de protégée
+
+Outils pratiques :
+
+- Travail d'équipe sur les **critères** d'évaluation du risque
+- Articulation avec la **clinique de l'activité** [@clot2008] : que dit le « règlement » du *travail prescrit* qui empêche l'équipe d'exercer son métier ?
+- Médiation avec la cheffe d'équipe en mobilisant le cadre légal
+:::
+
+## Exercice 5 — Activer un droit vulnérable
+
+Léa pourrait théoriquement vivre en appartement avec une contribution d'assistance AI. Elle ne le sait pas. L'équipe ne mobilise pas le dispositif. Sa mère s'oppose.
+
+**Qu'est-ce que Revillard nous apprend de cette situation ?**
+
+::: {.callout-tip appearance="default" collapse="true"}
+## Réponse
+Concept central : **droits vulnérables** [@revillard2020].
+
+> *« Les droits ne sont pas seulement ce que les textes disent, mais ce que les personnes parviennent à en faire. »*
+
+Trois mécanismes de vulnérabilité :
+
+1. **Méconnaissance** — Léa ignore l'existence du droit
+2. **Médiation institutionnelle défaillante** — l'équipe ne joue pas son rôle d'intermédiaire informationnel
+3. **Opposition relationnelle** — la mère exerce une influence qui peut conduire à un renoncement informel
+
+Le TS est un **opérateur clé de l'effectivité**. Trois leviers :
+
+- Information directe à Léa (en FALC si pertinent)
+- Travail avec la mère sur ses craintes (éthique du care)
+- Mobilisation du réseau : Pro Infirmis Genève, Cap-Contact, OAI
+:::

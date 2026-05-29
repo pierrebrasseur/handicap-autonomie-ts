@@ -1,0 +1,71 @@
+# Tension travail prescrit / travail réel
+
+::: {.callout-note appearance="simple"}
+## Thèse
+Le travail prescrit n'est jamais identique au travail réel. La clinique de l'activité [@clot2008] et la *street-level bureaucracy* [@lipsky2010] outillent cette tension. Les marges du métier [@lenzimoine2025] en sont le lieu d'invention professionnelle.
+:::
+
+## La clinique de l'activité
+
+@clot1999 et @clot2008 développent la grammaire conceptuelle de cette tension.
+
+### Distinction centrale
+
+| Niveau | Définition |
+|---|---|
+| **Travail prescrit** | Référentiels d'activité, procédures, contraintes du financement |
+| **Activité réalisée** | Ce qui est effectivement fait dans la situation |
+| **Réel de l'activité** | Inclut aussi ce qui n'est pas fait, ce qui aurait pu être fait, ce qui est **empêché** |
+
+> *« Ce qui rend malade au travail, ce n'est pas le conflit, c'est l'impossibilité du conflit. »* [@clot2008]
+
+### Concepts clés
+
+- **Genre professionnel** — manières de faire propres au métier, déposées dans le collectif
+- **Style** — manière personnelle de mobiliser le genre
+- **Pouvoir d'agir** — possibilité effective d'agir sur son milieu et sur soi-même
+- **Activité empêchée** — ce qu'on ne peut pas faire malgré sa volonté de bien faire
+
+## La *street-level bureaucracy*
+
+@lipsky2010 fournit la sociologie politique de cette tension.
+
+> *« The decisions of street-level bureaucrats, the routines they establish, and the devices they invent to cope with uncertainties and work pressures effectively become the public policies they carry out. »* [@lipsky2010, p. xii]
+
+Les travailleur·euses sociaux·ales ne sont pas seulement des **exécutant·es**. Ielles sont des **producteur·trices de politique publique au guichet**, exerçant une *autonomie discrétionnaire* qui peut être :
+
+- un **levier d'éthique professionnelle** (mobiliser une marge pour faire au mieux)
+- ou une zone de **reproduction inégalitaire** (routiniser, écrémer, simplifier)
+
+@dubois2010 en a tiré une ethnographie de référence du guichet.
+
+## Les marges du métier
+
+@lenzimoine2025 viennent de prolonger cette tradition avec un ouvrage qui rassemble des analyses de l'autonomie discrétionnaire **dans les marges** des dispositifs.
+
+::: {.aside}
+Catherine Lenzi est professeure associée à la HETS Genève et anime le réseau de compétences *« Autonomie-Handicap-Dépendance »*.
+:::
+
+## Le travail émotionnel
+
+Une dimension reste sous-thématisée dans la clinique de l'activité : le **travail émotionnel** [@hochschild1983].
+
+> *« This labor requires one to induce or suppress feeling in order to sustain the outward countenance that produces the proper state of mind in others. »* [@hochschild1983, p. 7]
+
+Annoncer un refus AI, accompagner une fin de droits, recadrer un proche : autant de situations où le travail émotionnel est central, **invisible dans les fiches de poste**, coûteux psychiquement.
+
+## Le praticien réflexif
+
+@schon1994 rappelle que les professionnel·les compétent·es ne se contentent pas d'appliquer des savoirs académiques (rationalité technique) mais conduisent une *reflection-in-action* qui leur permet d'affronter incertitude, singularité, conflits de valeurs.
+
+> *« Les praticiens compétents en savent généralement plus qu'ils ne peuvent en dire. »* [@schon1994]
+
+## Synthèse opérationnelle
+
+| Outil théorique | Question pour la pratique |
+|---|---|
+| Clinique de l'activité | Quelle est mon activité empêchée aujourd'hui ? |
+| *Street-level bureaucracy* | Quelle marge discrétionnaire ai-je mobilisée cette semaine ? |
+| Travail émotionnel | Quelles émotions ai-je dû gérer pour faire mon travail ? |
+| Praticien réflexif | Que m'a appris cette situation que je ne savais pas avant ? |

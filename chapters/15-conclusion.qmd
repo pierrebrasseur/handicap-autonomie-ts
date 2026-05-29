@@ -1,0 +1,39 @@
+# Conclusion {.unnumbered}
+
+::: {.callout-note appearance="simple"}
+## Quatre intuitions à garder
+1. **Les modèles coexistent** comme grammaires actives, pas comme étapes successives
+2. **Les transformations suisses ouvrent des marges concrètes** pour le TS, mais les droits sont vulnérables
+3. **La posture professionnelle est un travail réflexif quotidien** sur trois tensions structurelles
+4. **La vignette est un outil d'apprentissage**, pas un cas-école — son efficacité tient à la résistance qu'elle oppose
+:::
+
+## Ce que cet ouvrage n'est pas
+
+Cet ouvrage **n'est pas** :
+
+- Un manuel exhaustif du champ du handicap — pour cela, voir @villefillion2020
+- Un guide opérationnel d'application des cadres juridiques — pour cela, voir les ressources de Pro Infirmis et d'Inclusion Handicap
+- Une critique radicale des institutions — pour cela, voir les *crip studies* et certains textes de Charlton, Ravaud, Goodley
+- Une synthèse de la sociologie de la maladie ou du soin — pour cela, voir les travaux de Pierre Aïach, Isabelle Baszanger ou Aurélien Troisœufs
+
+Il est ce qu'il est : un **matériel pédagogique** destiné à une séance de cours de 40 minutes (et son module d'inscription), suffisamment structuré pour outiller un·e étudiant·e Bachelor TS du semestre 4, suffisamment ouvert pour ne pas refermer prématurément des questions vives.
+
+## Travail à venir
+
+Plusieurs chantiers prolongent ce travail :
+
+- Une **séance 5** sur le travail avec les proches
+- Un module **Bachelor de spécialisation** sur 13 séances dont ce livre détaille la séance 4
+- Des **chapitres complémentaires** sur l'école inclusive, la pair-aidance approfondie, et les violences institutionnelles
+- Un **module de formation continue** pour les TS en poste, en partenariat avec INSOS Genève
+
+## Remerciements
+
+Ce travail doit beaucoup aux collègues romand·es dont les recherches structurent le module — **Manon Masse, Catherine Lenzi, Chloé Souesme, Yves Delessert, Geneviève Piérart, Barbara Lucas** — et aux personnes concernées rencontrées en formation pratique et en recherche, dont les questions ont façonné les miennes.
+
+Il doit beaucoup aussi aux étudiant·es des promotions passées, à l'Université de Lille puis à l'Université libre de Bruxelles, dont les objections ont raffiné les arguments.
+
+## Contact
+
+[pierre.brasseur\@hetsge.ch](mailto:pierre.brasseur@hetsge.ch) — toute correction, prolongement, critique est bienvenu.

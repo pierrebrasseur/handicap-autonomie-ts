@@ -1,0 +1,88 @@
+# La vignette de Léa {#sec-vignette}
+
+::: {.callout-important appearance="simple"}
+## Situation
+**Léa, 22 ans, a une trisomie 21.** Elle vit à L'Atelier, dispositif d'accompagnement des jeunes adultes géré par la Fondation Ensemble à Genève. Un matin, en réunion d'équipe, son éducatrice référente rapporte une demande :
+
+> *« Je veux un appartement à moi et un amoureux qui dort là. »*
+
+La mère de Léa, qui vient chaque week-end, demande à l'équipe de *« la raisonner »*.
+:::
+
+## Une vignette comme dispositif
+
+Cette vignette n'est pas un cas clinique fermé. C'est un **dispositif pédagogique** au sens de @schon1994 : une situation qui résiste, qui oblige à mobiliser les ressources théoriques disponibles pour la penser. Elle est référée à un dispositif réel — L'Atelier de la Fondation Ensemble, qui accompagne effectivement des jeunes adultes avec déficience intellectuelle à Genève — sans qu'aucune personne identifiable n'y soit représentée.
+
+![Trois personnages, trois positions, trois questions à garder en tête](../images/vignette-lea.svg){#fig-vignette}
+
+## Trois personnages, trois positions
+
+### Léa
+
+Sa demande, formulée en propres termes : *« Je veux un appartement à moi et un amoureux qui dort là. »*
+
+**Cadre normatif mobilisable** :
+
+- **CDPH art. 19** — droit de vivre dans la communauté avec la même liberté de choix que les autres
+- **CDPH art. 12** — capacité juridique universelle
+- **CDPH art. 22** — droit au respect de la vie privée
+- **Approche par les capabilités** [@nussbaum2006] — affiliation, contrôle de son environnement
+
+::: {.aside}
+Léa est-elle « capable » de cette vie ? Et qui en juge ?
+:::
+
+### La mère
+
+Sa demande, telle qu'elle est exprimée : que l'équipe « raisonne » Léa.
+
+**Ce qu'elle mobilise implicitement** :
+
+- Une éthique de protection
+- Le modèle médical-réadaptatif (déficience à compenser)
+- Une expérience parentale longue, légitime, parfois douloureuse
+- Possiblement une culpabilité, une fatigue, une peur
+
+::: {.aside}
+Comment travailler *avec* elle plutôt que *contre* elle ?
+:::
+
+### L'équipe
+
+Sa demande, exprimée en réunion : savoir quoi faire.
+
+**Ce qui la traverse** :
+
+- Tensions de mission (protéger / soutenir l'autonomie)
+- Contraintes du financement institutionnel
+- Différences d'orientation entre professionnel·les
+- Possiblement : peur du risque, peur de la sanction
+
+::: {.aside}
+Quelles ressources théoriques et institutionnelles mobiliser ?
+:::
+
+## Trois questions à garder en tête
+
+::: {.callout-tip appearance="simple"}
+## Au fil de la lecture
+
+1. À quel **modèle du handicap** se rattache chaque position ?
+2. Quelles **transformations contemporaines** ouvrent des marges concrètes pour soutenir le projet de Léa ?
+3. Quelle **posture professionnelle** permet de tenir ensemble les trois positions sans en écraser aucune ?
+:::
+
+Nous revenons explicitement à la vignette à trois moments du livre :
+
+- **§ @sec-vignette-modeles** — pour cartographier les positions selon les quatre modèles
+- **§ @sec-vignette-financement** — pour mobiliser la contribution d'assistance AI
+- **§ @sec-activite** — pour l'activité pédagogique *think-pair-share*
+
+## Une éthique de la vignette
+
+::: {.callout-warning appearance="simple"}
+## Précaution
+La vignette est *référée* à un dispositif réel mais *non identifiante*. Léa n'existe pas — ou plus exactement : elle n'existe pas comme cette Léa-là. Sa demande est plausible, vraisemblable, documentée par la littérature sur l'autodétermination dans le champ de la déficience intellectuelle ; sa situation reconstitue une configuration relationnelle (la mère qui demande de raisonner, l'équipe qui se demande quoi faire) que toute personne ayant fait une formation pratique en institution handicap a déjà rencontrée. Mais aucune personne identifiable n'y est représentée.
+
+C'est ce que nous appelons une **vignette dense mais désindividualisée** : suffisamment précise pour mobiliser la pensée, suffisamment générique pour protéger les personnes dont elle s'inspire.
+:::

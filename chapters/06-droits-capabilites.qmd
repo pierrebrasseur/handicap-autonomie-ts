@@ -1,0 +1,69 @@
+# Modèle droits + capabilités {#sec-vignette-modeles}
+
+::: {.callout-note appearance="simple"}
+## Thèse
+La personne handicapée est **sujet de droits égaux**. Ce qui compte est la **capabilité réelle** — ce que la personne peut effectivement faire et être.
+:::
+
+Ce quatrième modèle émerge à la jonction de deux traditions distinctes mais convergentes : le droit international des droits humains et la philosophie politique post-rawlsienne.
+
+## Pilier juridique : la CDPH ONU 2006
+
+La **Convention relative aux droits des personnes handicapées** [@cdph2006] consacre le passage d'une approche de protection (charity, welfare) à une approche de droits (rights-based). La Suisse a ratifié la CDPH le **15 avril 2014**.
+
+### Trois articles structurants
+
+| Article | Objet | Portée pour le TS |
+|---|---|---|
+| **Art. 12** | Capacité juridique universelle | Passage de la substitution au soutien à la décision |
+| **Art. 19** | Vie autonome dans la communauté | Cadre de la désinstitutionnalisation |
+| **Art. 24** | Éducation inclusive | Cadre de l'école inclusive et de la formation pro |
+
+### Citation cadre
+
+> *« Reconnaissent que la notion de handicap évolue et que le handicap résulte de l'interaction entre des personnes présentant des incapacités et les barrières comportementales et environnementales qui font obstacle à leur pleine et effective participation à la société sur la base de l'égalité avec les autres. »*
+>
+> --- @cdph2006, Préambule (e)
+
+## Pilier philosophique : l'approche par les capabilités
+
+L'**approche par les capabilités** initiée par Amartya Sen et systématisée pour les personnes handicapées par Martha Nussbaum [@nussbaum2006] propose une alternative au contractualisme rawlsien.
+
+Pour Nussbaum, la *Théorie de la justice* échoue à inclure les personnes lourdement handicapées car elle présuppose des contractants libres, rationnels et productifs. L'approche par les capabilités garantit à chacun·e un seuil minimal de **dix capabilités centrales** comme conditions d'une vie digne.
+
+### Les dix capabilités centrales
+
+1. Vie
+2. Santé corporelle
+3. Intégrité corporelle
+4. Sens, imagination, pensée
+5. Émotions
+6. Raison pratique
+7. **Affiliation** (vivre avec et pour les autres)
+8. Autres espèces
+9. **Jeu**
+10. **Contrôle de son environnement** (politique et matériel)
+
+## Posture professionnelle qu'il appelle
+
+Le TS comme **garant de droits** et **facilitateur de capabilités**. Il connaît le cadre légal, sait l'invoquer, sait l'expliquer ; il évalue moins des « besoins » ou des « manques » que des **capabilités à soutenir**.
+
+## Retour à Léa
+
+Appliquons les quatre modèles à la situation de Léa.
+
+| Modèle | Lecture de la situation | Action suggérée |
+|---|---|---|
+| **Médical** | Trisomie 21, déficience intellectuelle, demande à *évaluer* | Bilan cognitif et fonctionnel |
+| **Social** | Cadre institutionnel inadapté à l'habitat individuel | Transformer les dispositifs disponibles |
+| **MDH-PPH** | Habitudes de vie (vie affective, habitat) compromises par l'environnement | Cartographier obstacles/facilitateurs |
+| **Droits + capabilités** | Capabilités d'affiliation et de contrôle de son environnement à soutenir | Mobiliser CDPH art. 12, 19, 22 et la contribution d'assistance |
+
+Aucune lecture n'est *fausse*. Chacune est **incomplète**. La posture professionnelle consiste à mobiliser plusieurs grammaires simultanément.
+
+## Limite
+
+::: {.callout-warning appearance="simple"}
+## Effectivité variable
+Les droits proclamés ne sont pas les droits effectifs. La Suisse a été critiquée par le Comité ONU CDPH [@onu2022] pour le retard sur la désinstitutionnalisation (art. 19) et la capacité juridique (art. 12). Le modèle droits + capabilités ne suffit pas — il ouvre un horizon normatif que le TS doit contribuer à rendre **effectif**, dans la lignée de l'analyse des **droits vulnérables** [@revillard2020].
+:::

@@ -1,0 +1,69 @@
+# Tension expertise / savoir expérientiel
+
+::: {.callout-note appearance="simple"}
+## Thèse
+La formule *« Nothing about us without us »* [@charlton1998] est une épistémologie politique, pas un slogan. Elle requiert quatre conditions opérationnelles pour produire ses effets : co-construction structurelle, pluralité représentée, rétribution, transparence sur les rapports de pouvoir.
+:::
+
+## La formule fondatrice
+
+> *« Nothing about us without us. »*
+>
+> *« Disability oppression is a totalizing system. »*
+>
+> --- @charlton1998
+
+La phrase fonde le mouvement international des droits des personnes handicapées et a guidé la rédaction de la CDPH 2006. C'est une **épistémologie politique** — pas seulement une exigence de participation à la décision, mais à la production des catégories à partir desquelles la décision est pensée.
+
+## Transformations institutionnelles
+
+Le déplacement épistémologique de Charlton se traduit institutionnellement par :
+
+- La **pair-aidance** dans le champ DI et en santé mentale
+- L'**auto-représentation associative** — AGILE.CH, Cap-Contact, *self-advocacy groups*
+- La **co-recherche** et la mobilisation des savoirs expérientiels [@jouet2010]
+
+## Vigilance épistémique
+
+::: {.callout-warning appearance="simple"}
+## La division témoin / expert
+Malgré la rhétorique participative, une division du travail épistémique persiste.
+
+> *« Les personnes handicapées sont invitées à témoigner de leur expérience pendant que les valides en produisent l'analyse. »* [@brasseurrodriguez2019]
+
+La participation se déploie selon **une économie inégale de la parole** :
+
+- La parole concernée est mobilisée comme **témoignage** (premier moment de la journée d'étude, 15 minutes)
+- La parole valide est mobilisée comme **analyse** (plénière de 90 minutes, conférenciers universitaires)
+
+Cette division reproduit l'asymétrie qu'elle prétend défaire.
+:::
+
+## Conditions opérationnelles
+
+Pour que la formule de Charlton produise ses effets, **quatre conditions** :
+
+### 1. Co-construction structurelle
+
+Les dispositifs sont conçus avec les personnes concernées **dès leur formation** — pas une fois qu'ils sont écrits. Cela suppose de la planification, du temps, du budget.
+
+### 2. Pluralité représentée
+
+Aucun individu ne représente *les* personnes handicapées. La participation doit refléter la pluralité des positions (déficiences, classes, genres, âges, parcours, intersections).
+
+### 3. Rétribution et formation
+
+La participation est un **travail**. Elle doit être rétribuée à un niveau équivalent aux autres participations expertes. Quand elle suppose une montée en compétence (lecture de rapports, mobilisation de cadres juridiques), une **formation** doit être proposée.
+
+### 4. Transparence sur les rapports de pouvoir
+
+Les personnes valides en position d'autorité reconnaissent leur position et travaillent à la déplacer. Sans ce travail, la participation reste asymétrique.
+
+## Pour le travail social
+
+| Question | Vérification |
+|---|---|
+| Le projet personnalisé est-il co-construit ? | La personne y reconnaît-elle sa propre formulation ? |
+| Le règlement institutionnel est-il négocié ? | Existe-t-il une instance de représentation des usager·es ? |
+| Les évaluations mobilisent-elles le savoir expérientiel ? | Comment ce savoir est-il documenté et valorisé ? |
+| Les évaluations sont-elles accessibles aux usager·es ? | Le langage utilisé est-il en FALC ? |

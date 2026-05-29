@@ -1,0 +1,39 @@
+# Modèle médical et réadaptatif
+
+::: {.callout-note appearance="simple"}
+## Thèse
+Le handicap est une **déficience individuelle** à corriger par l'intervention médicale et la réadaptation fonctionnelle.
+:::
+
+## Genèse historique
+
+Le modèle médical émerge à la fin du XIXᵉ siècle avec l'institutionnalisation de la médecine de réadaptation [@stiker2013]. Il se consolide au sortir des deux guerres mondiales avec l'invalidité de guerre puis du travail. Sa traduction administrative la plus visible en Suisse est l'AI (LAI, RS 831.20).
+
+> *« Réadapter, c'est ramener à la norme, à l'identique, et désigner par là même comme différent. »*
+>
+> --- @stiker2013
+
+## Logique opérationnelle
+
+Le handicap relève d'un diagnostic ; il appelle une intervention spécialisée (médicale, paramédicale, sociale) ; il est mesuré (taux d'invalidité, score fonctionnel) ; il ouvre des prestations en fonction de cette mesure.
+
+## Posture professionnelle qu'il appelle
+
+Le TS comme **technicien de la conformité**. Il accompagne la personne dans son ajustement à des normes implicites de productivité, d'autonomie fonctionnelle, de comportement adapté.
+
+## Limites et critiques
+
+| Limite | Conséquence pour la pratique |
+|---|---|
+| Naturalise le handicap comme propriété individuelle | Occulte les déterminants environnementaux |
+| Hiérarchise diagnostic > expérience | Réduit la personne à son dossier médical |
+| Pose la norme comme implicite | Empêche le débat sur ses critères |
+
+## Persistance contemporaine
+
+Ce modèle n'a pas disparu. Il reste structurant dans :
+
+- L'évaluation AI [@ofas2020]
+- Les dispositifs de réadaptation professionnelle
+- Certains projets personnalisés focalisés sur le « manque »
+- Les logiques de financement par diagnostic

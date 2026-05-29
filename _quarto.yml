@@ -1,0 +1,133 @@
+project:
+  type: book
+  output-dir: _site
+
+book:
+  title: "Handicap, autonomie et travail social"
+  subtitle: "Du protégé au sujet de droits — Transformations du champ du handicap et nouvelle posture du travail social"
+  author:
+    - name: "Pierre Brasseur"
+      affiliation: "HETS Genève · HES-SO"
+      email: "pierre.brasseur@hetsge.ch"
+  date: "2026-06-05"
+  date-format: "DD MMMM YYYY"
+  description: |
+    Matériel pédagogique du module Bachelor en travail social
+    *Handicap, autonomie et travail social*, préparé pour la leçon
+    probatoire HETS Genève du 5 juin 2026.
+  abstract: |
+    Cet ouvrage rassemble le matériel pédagogique d'un module Bachelor
+    en travail social consacré aux transformations contemporaines du
+    champ du handicap. Il propose une systématisation des quatre modèles
+    théoriques (médical-réadaptatif, social, MDH-PPH, droits + capabilités),
+    une analyse des transformations du champ (désinstitutionnalisation,
+    autodétermination, financement orienté personne), et une lecture des
+    effets sur la posture professionnelle à travers trois tensions
+    structurelles. Il est ancré dans le cadre suisse et genevois.
+  # cover-image: cover.png
+  # favicon: favicon.png
+  site-url: https://pierrebrasseur.github.io/handicap-autonomie-ts/
+  repo-url: https://github.com/pierrebrasseur/handicap-autonomie-ts
+  repo-branch: main
+  repo-actions: [edit, source, issue]
+  sharing: [twitter, linkedin]
+  search:
+    location: sidebar
+    type: textbox
+  page-navigation: true
+  back-to-top-navigation: true
+  reader-mode: true
+  page-footer:
+    left: "© 2026 Pierre Brasseur · HETS Genève"
+    center: "[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)"
+    right:
+      - icon: github
+        href: https://github.com/pierrebrasseur/handicap-autonomie-ts
+      - icon: rss
+        href: https://pierrebrasseur.github.io/blog-recherche/
+  chapters:
+    - index.qmd
+    - part: "Préliminaires"
+      chapters:
+        - chapters/01-positionnement.qmd
+        - chapters/02-vignette.qmd
+    - part: "Quatre modèles du handicap"
+      chapters:
+        - chapters/03-medical.qmd
+        - chapters/04-social.qmd
+        - chapters/05-mdh-pph.qmd
+        - chapters/06-droits-capabilites.qmd
+    - part: "Transformations contemporaines"
+      chapters:
+        - chapters/07-desinstitutionnalisation.qmd
+        - chapters/08-autodetermination.qmd
+        - chapters/09-financement.qmd
+    - part: "Posture professionnelle"
+      chapters:
+        - chapters/10-tension-protection.qmd
+        - chapters/11-tension-savoirs.qmd
+        - chapters/12-tension-prescrit-reel.qmd
+    - part: "Application"
+      chapters:
+        - chapters/13-activite-synthese.qmd
+        - chapters/14-auto-evaluation.qmd
+    - chapters/15-conclusion.qmd
+  appendices:
+    - appendices/A-cadre-suisse.qmd
+    - appendices/B-glossaire.qmd
+    - appendices/C-references.qmd
+
+bibliography: references.bib
+csl: https://www.zotero.org/styles/apa-fr
+link-citations: true
+
+format:
+  html:
+    theme:
+      light: [cosmo, theme-light.scss]
+      dark: [cosmo, theme-dark.scss]
+    fontsize: 1.05em
+    linestretch: 1.7
+    mainfont: "Inter"
+    monofont: "JetBrains Mono"
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+    toc-depth: 3
+    toc-location: right
+    number-sections: true
+    fig-cap-location: bottom
+    tbl-cap-location: top
+    smooth-scroll: true
+    anchor-sections: true
+    citations-hover: true
+    footnotes-hover: true
+    crossrefs-hover: true
+    df-print: kable
+    callout-appearance: simple
+    callout-icon: true
+
+  pdf:
+    documentclass: scrbook
+    classoption: ["paper=a4", "fontsize=10pt"]
+    geometry:
+      - top=2.5cm
+      - bottom=2.5cm
+      - left=2.8cm
+      - right=2.8cm
+    mainfont: "Charter"
+    sansfont: "Inter"
+    monofont: "JetBrains Mono"
+    colorlinks: true
+    linkcolor: "violet"
+    citecolor: "violet"
+    urlcolor: "violet"
+    toc: true
+    toc-depth: 2
+    number-sections: true
+
+execute:
+  echo: false
+  warning: false
+
+lang: fr-CH

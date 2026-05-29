@@ -1,0 +1,92 @@
+/*-- scss:defaults --*/
+
+$primary: #5e2ca5;
+$body-bg: #ffffff;
+$body-color: #1a1a2e;
+$link-color: #5e2ca5;
+$link-hover-color: #c9690e;
+$code-color: #c9690e;
+$blockquote-border-color: #f6b40e;
+$font-size-base: 1rem;
+
+/*-- scss:rules --*/
+
+body {
+  font-feature-settings: "ss01", "cv11";
+}
+
+h1, h2, h3, h4 {
+  font-weight: 650;
+  letter-spacing: -0.005em;
+  color: #1a1a2e;
+}
+
+h1.title {
+  font-weight: 800;
+  letter-spacing: -0.015em;
+}
+
+.quarto-title-banner {
+  background: linear-gradient(135deg, #5e2ca5 0%, #8b3fc7 100%);
+  color: white;
+}
+
+.quarto-title-banner h1.title,
+.quarto-title-banner .subtitle {
+  color: white !important;
+}
+
+blockquote {
+  background: #f7f5fb;
+  border-left: 4px solid #f6b40e;
+  padding: 0.8em 1.2em;
+  border-radius: 0 6px 6px 0;
+  font-style: italic;
+}
+
+.callout {
+  border-radius: 8px;
+}
+
+.callout.callout-style-simple {
+  border-left-width: 4px;
+}
+
+table {
+  font-size: 0.92em;
+}
+
+table thead th {
+  background: #f7f5fb;
+  border-bottom: 2px solid #5e2ca5;
+  color: #1a1a2e;
+}
+
+.sidebar-title {
+  color: #5e2ca5;
+  font-weight: 700;
+}
+
+.sidebar .chapter-title {
+  font-weight: 600;
+}
+
+#TOC h2 {
+  color: #5e2ca5;
+}
+
+.footnote-back {
+  color: #5e2ca5;
+}
+
+a.cite, a.footnote-ref {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.aside {
+  background: #f7f5fb;
+  padding: 1rem;
+  border-radius: 8px;
+  border-left: 3px solid #f6b40e;
+}

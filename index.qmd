@@ -1,0 +1,53 @@
+# Bienvenue {.unnumbered}
+
+::: {.callout-note appearance="simple"}
+## Cet ouvrage
+Cet ouvrage rassemble le matériel pédagogique du module Bachelor en travail social *Handicap, autonomie et travail social* (HETS Genève, semestre 4). Il a été préparé pour la **leçon probatoire HETS Genève du 5 juin 2026** par **Pierre Brasseur**, candidat au poste de Professeur HES associé à 80 % — réf. 309.
+:::
+
+## Architecture du livre
+
+L'ouvrage est organisé en six parties, qui suivent la progression de la séance probatoire :
+
+1. **Préliminaires** — positionnement institutionnel et vignette pédagogique fondatrice
+2. **Quatre modèles du handicap** — quatre grilles d'analyse en chapitres séparés
+3. **Transformations contemporaines** — désinstitutionnalisation, autodétermination, financement orienté personne
+4. **Posture professionnelle** — trois tensions structurelles
+5. **Application** — activité pédagogique et auto-évaluation
+6. **Annexes** — cadre suisse, glossaire, bibliographie complète
+
+Chaque chapitre comporte une **thèse centrale**, des **citations situées**, des **exemples d'application en formation pratique**, et des **limites assumées**.
+
+## Une intuition pédagogique
+
+Les modèles du handicap **ne sont pas des étapes successives**. Ils coexistent dans chaque institution comme **grammaires actives**. Reconnaître le modèle dominant d'un dispositif, c'est déjà commencer à y intervenir.
+
+C'est l'intuition qui structure l'ouvrage.
+
+## Liens
+
+- 🌐 **Site web compagnon** : [pierrebrasseur.github.io/cours-handicap-ts](https://pierrebrasseur.github.io/cours-handicap-ts/)
+- 📑 **Carnet de recherche** : [pierrebrasseur.github.io/blog-recherche](https://pierrebrasseur.github.io/blog-recherche/)
+- 📧 **Contact** : [pierre.brasseur@hetsge.ch](mailto:pierre.brasseur@hetsge.ch)
+
+## Comment citer
+
+::: {.callout-tip appearance="minimal" collapse="true"}
+## Citation suggérée
+
+> Brasseur, P. (2026). *Handicap, autonomie et travail social. Du protégé au sujet de droits — Transformations du champ du handicap et nouvelle posture du travail social.* Genève : HETS / HES-SO. <https://pierrebrasseur.github.io/handicap-autonomie-ts/>
+
+```bibtex
+@book{brasseur2026handicap,
+  title = {Handicap, autonomie et travail social. Du protégé au sujet de droits},
+  author = {Brasseur, Pierre},
+  year = {2026},
+  publisher = {HETS Genève / HES-SO},
+  url = {https://pierrebrasseur.github.io/handicap-autonomie-ts/}
+}
+```
+:::
+
+## Licence
+
+Le contenu est mis à disposition sous **[Creative Commons BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr)**. Citation requise, usage non commercial, partage dans les mêmes conditions.

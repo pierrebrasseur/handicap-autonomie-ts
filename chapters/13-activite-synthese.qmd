@@ -1,0 +1,87 @@
+# Activité et synthèse {#sec-activite}
+
+::: {.callout-important appearance="simple"}
+## Retour à la vignette
+La vignette de Léa (§ @sec-vignette) clôt la séance par une activité *think-pair-share*. L'objectif est de transformer la pluralité des modèles en posture argumentée.
+:::
+
+## Consigne de l'activité (5 minutes)
+
+::: panel-tabset
+
+### Étape 1 — Seul·e (2 minutes)
+
+Choisissez l'une des trois tensions :
+
+- Protection / Autonomie
+- Expertise / Savoir expérientiel
+- Travail prescrit / Travail réel
+
+Prenez position individuellement.
+
+### Étape 2 — En binôme (2 minutes)
+
+Formulez en **deux phrases** ce que vous diriez à :
+
+- **Léa**
+- **sa mère**
+- **l'équipe**
+
+Il n'y a pas de bonne réponse — une posture argumentée.
+
+### Étape 3 — Restitution (1 minute)
+
+Trois binômes restituent, un par tension. Le formateur reformule en renvoyant aux concepts mobilisés.
+
+:::
+
+## Posture du formateur
+
+**Facilitateur**, pas évaluateur. Circuler, reformuler, renvoyer aux concepts.
+
+| Si un binôme dit… | Reformulation |
+|---|---|
+| *« On respecte le choix de Léa. »* | *« Vous mobilisez la dignité du risque [@perske1972] et l'art. 12 CDPH. »* |
+| *« On protège Léa. »* | *« Vous mobilisez l'éthique de protection. Quels critères justifieraient-ils de limiter sa capacité juridique ? »* |
+| *« On en discute avec la mère. »* | *« Vous mobilisez l'éthique du care de Tronto [@tronto2009]. Comment éviter qu'elle ne devienne substitution de décision ? »* |
+| *« On évalue la contribution d'assistance. »* | *« Vous activez un droit social. Connaissez-vous les barrières administratives identifiées par @ofas2020 ? »* |
+
+## Trois acquis à retenir
+
+::: {.callout-tip appearance="simple"}
+## Acquis 1 — Les modèles coexistent
+Les quatre modèles du handicap **ne sont pas des étapes successives** mais des **grammaires actives** qui coexistent dans chaque institution.
+
+> *« Le handicap n'est pas un donné mais un construit historique, social et politique. »* [@villefillion2020]
+:::
+
+::: {.callout-tip appearance="simple"}
+## Acquis 2 — Des marges concrètes pour le TS
+Les transformations contemporaines suisses ouvrent des **marges d'action concrètes** — CDPH, contribution d'assistance AI, Initiative *Pour l'inclusion* 2024, plan cantonal genevois 2023, avant-projet LED-H.
+
+Mais ces marges sont des **droits vulnérables** dont l'effectivité dépend du travail d'intermédiation [@revillard2020].
+:::
+
+::: {.callout-tip appearance="simple"}
+## Acquis 3 — Une posture comme travail réflexif
+La posture professionnelle **n'est pas un trait personnel**. C'est un **travail réflexif quotidien** sur trois tensions structurelles. L'enjeu n'est pas de les résoudre mais de les habiter de manière argumentée.
+
+> *« Les praticiens compétents en savent généralement plus qu'ils ne peuvent en dire. »* [@schon1994]
+:::
+
+## Ouverture sur la séance 5
+
+La séance suivante portera sur :
+
+> *« Le travail avec les proches : entre alliés, opposants et co-aidants. »*
+
+**La mère de Léa nous y accompagne.** Les étudiant·es sont invité·es à apporter une situation rencontrée en formation pratique où la famille les a déstabilisé·es — anonymisée, sans lieu identifiable.
+
+## Lectures recommandées
+
+| Référence | Pour quoi ? |
+|---|---|
+| @villefillion2020 | Manuel de référence du module |
+| @lenzimoine2025 | Posture et marges du métier |
+| @onu2022 | Articles 12, 19, 24 |
+| @brasseurrodriguez2019 | Vigilance épistémique |

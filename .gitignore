@@ -1,0 +1,6 @@
+_site/
+.quarto/
+_book/
+*_files/
+.DS_Store
+quarto

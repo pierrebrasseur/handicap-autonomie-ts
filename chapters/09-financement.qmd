@@ -1,0 +1,60 @@
+# Financement orienté personne {#sec-vignette-financement}
+
+::: {.callout-note appearance="simple"}
+## Thèse
+Le financement orienté personne (*cash-for-care*) déplace l'argent du soin de l'institution vers la personne. Il ouvre une marge d'autodétermination, mais redistribue aussi les charges de coordination, de gestion, de risque.
+:::
+
+## La contribution d'assistance AI
+
+Introduite le **1ᵉʳ janvier 2012** par la 6ᵉ révision LAI. Logique *cash-for-care* : la personne reçoit l'argent et engage elle-même ses assistant·es.
+
+### Chiffres clés
+
+| Indicateur | Valeur |
+|---|---|
+| Bénéficiaires fin 2019 | ~ 2 600 (cible initiale 3 000 dès 2012) |
+| Durée moyenne d'engagement | 41 h/semaine |
+| Satisfaction | **81 % satisfaits ou très satisfaits** |
+| Retours en home | Rares |
+
+Source : @ofas2020.
+
+## Critiques structurelles
+
+- **Barrières administratives** lourdes (formulaire, calcul des besoins, statut employeur-bénéficiaire)
+- **Pénurie d'assistant·es** disponibles dans certaines régions
+- **Non-extension aux mineurs** et aux personnes en **curatelle de portée générale**
+- **Inégalités d'accès** selon la capacité à gérer (faire les démarches, recruter, suivre les comptes)
+
+## Mise en perspective comparée
+
+| Pays | Dispositif | Année | Critique principale |
+|---|---|---|---|
+| Suisse | Contribution d'assistance AI | 2012 | Diffusion limitée, complexité admin. |
+| France | PCH | 2005 | Familialisme par défaut |
+| Angleterre | *Direct payments* / *Individual budgets* | 1996 / 2003 | Inégalités de capacité à gérer |
+| Pays-Bas | Budget personnel (PGB) | 1995 | Précarisation des care workers |
+
+@lebihan2019 analysent ces politiques comme un *« familialisme optionnel par le marché »* — risque de précarisation des aidant·es professionnel·les, souvent migrant·es. @glendinning2008 observe :
+
+> *« Personalisation marks a shift from the citizen-as-recipient to the citizen-as-purchaser of care. »*
+
+Ce déplacement n'est pas neutre. Il introduit une logique de marché dans le soin.
+
+## Retour à Léa
+
+La contribution d'assistance constitue **l'un** des outils qui rendraient son projet juridiquement possible :
+
+- Léa **n'est pas** sous curatelle de portée générale → elle est **éligible**
+- Elle aurait à embaucher elle-même ses assistant·es
+- Elle conserverait son logement choisi
+
+::: {.callout-important appearance="simple"}
+## Mais
+Sait-elle qu'elle existe ? Sait-elle remplir le formulaire ? Connaît-elle ses droits de recours ?
+
+> *« Les droits ne sont pas seulement ce que les textes disent, mais ce que les personnes parviennent à en faire. »* [@revillard2020]
+
+**Le TS est un opérateur clé de l'effectivité.** À Genève : Pro Infirmis, Cap-Contact, services sociaux institutionnels.
+:::

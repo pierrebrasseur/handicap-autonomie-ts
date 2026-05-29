@@ -1,0 +1,47 @@
+# Tension protection / autonomie
+
+::: {.callout-note appearance="simple"}
+## Thèse
+La dignité du risque [@perske1972] et le paradigme du soutien à la décision (CDPH art. 12) déplacent la question. L'enjeu n'est pas « protéger ou laisser faire » mais **redistribuer la responsabilité du care** [@tronto2009].
+:::
+
+## La dignité du risque (Perske 1972)
+
+@perske1972 formule en 1972 ce qui demeure l'une des phrases les plus citées du champ :
+
+> *« There can be such a thing as human dignity in risk. And there can be a dehumanizing indignity in safety! »*
+
+**La dignité du risque** signifie que les personnes ayant une déficience intellectuelle ont droit à prendre des **risques ordinaires** : travailler, aimer, voyager, se tromper. Surprotéger nie l'humanité de la personne.
+
+## Le déplacement juridique (CDPH art. 12)
+
+L'**article 12 CDPH** opère le déplacement correspondant :
+
+| Avant | Après |
+|---|---|
+| **Paradigme tutélaire** | **Paradigme du soutien** |
+| Substitution de décision | *Supported decision-making* |
+| Curatelle de portée générale | Mesures graduées et personnalisées |
+| Capacité juridique restreinte | Capacité juridique universelle |
+
+En Suisse, l'application reste partielle. La curatelle de portée générale (CC art. 398) demeure couramment ordonnée, en contradiction avec la lecture stricte soutenue par le Comité ONU CDPH [@onu2022].
+
+## L'éthique du care comme cadre théorique
+
+La résolution de cette tension n'est pas dans le choix univoque de l'autonomie contre la protection. Elle est dans une **éthique du care** qui pense la vulnérabilité comme constitutive de la condition humaine [@tronto2009 ; @paperman2011].
+
+> *« Nous sommes tous des êtres vulnérables et dépendants. Il s'agit de redistribuer la responsabilité du care, non de la concentrer sur les plus faibles. »* [@tronto2009]
+
+@tronto2009 déplace le care de l'éthique privée vers la philosophie politique. Une démocratie *caring* reconnaît que la vulnérabilité est universelle et redistribue les responsabilités au lieu de les confiner aux femmes, aux racisé·es, aux pauvres.
+
+## Implications pour le travail social
+
+::: {.callout-tip appearance="simple"}
+## Quatre questions à se poser
+1. **Qui** décide du niveau de risque acceptable ?
+2. **Sur quels critères** la décision se fonde-t-elle ?
+3. **Comment** la décision est-elle documentée et révisable ?
+4. **Quelle redistribution** des responsabilités la décision opère-t-elle ?
+:::
+
+Ces quatre questions transforment la tension protection/autonomie en **objet de travail collectif** plutôt qu'en dilemme individuel.
