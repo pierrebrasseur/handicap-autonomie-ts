@@ -31,6 +31,7 @@ book:
   repo-branch: main
   repo-actions: [edit, source, issue]
   sharing: [twitter, linkedin]
+  downloads: [pdf]
   search:
     location: sidebar
     type: textbox
@@ -108,16 +109,13 @@ format:
     callout-icon: true
 
   pdf:
-    documentclass: scrbook
+    documentclass: scrreprt
     classoption: ["paper=a4", "fontsize=10pt"]
     geometry:
       - top=2.5cm
       - bottom=2.5cm
       - left=2.8cm
       - right=2.8cm
-    mainfont: "Charter"
-    sansfont: "Inter"
-    monofont: "JetBrains Mono"
     colorlinks: true
     linkcolor: "violet"
     citecolor: "violet"
@@ -125,6 +123,10 @@ format:
     toc: true
     toc-depth: 2
     number-sections: true
+    pdf-engine: xelatex
+    mainfont: "Charter"
+    sansfont: "Helvetica Neue"
+    monofont: "Menlo"
 
 execute:
   echo: false

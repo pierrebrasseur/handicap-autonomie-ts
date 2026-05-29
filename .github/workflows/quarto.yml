@@ -19,12 +19,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y librsvg2-bin fonts-charter
+
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: 1.6.42
-      - name: Render book
-        run: quarto render --to html
+          tinytex: true
+
+      - name: Render book (HTML + PDF)
+        run: |
+          quarto render --to html
+          quarto render --to pdf || echo "PDF render failed; continuing with HTML only"
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
