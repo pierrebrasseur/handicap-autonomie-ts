@@ -124,9 +124,6 @@ format:
     toc-depth: 2
     number-sections: true
     pdf-engine: xelatex
-    mainfont: "Charter"
-    sansfont: "Helvetica Neue"
-    monofont: "Menlo"
 
 execute:
   echo: false

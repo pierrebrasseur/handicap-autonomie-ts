@@ -23,7 +23,7 @@ jobs:
       - name: Install system dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y librsvg2-bin fonts-charter
+          sudo apt-get install -y librsvg2-bin
 
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
